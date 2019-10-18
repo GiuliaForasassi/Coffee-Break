@@ -1,2 +1,2 @@
 # Coffee-Break
-Approfondimento di Ingegneria del Software: Singleton e Decorator
+Software Engineering project: Singleton and Decorator
